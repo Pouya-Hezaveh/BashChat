@@ -10,7 +10,7 @@ A simple, multi-user, real-time terminal chat system built with Bash scripts.
 
 This project implements a client-server chatroom using Bash, supporting multiple users with real-time messaging, simple authentication, and concurrency via tools like `ncat`. It uses a log file for message broadcasting and a users database for authentication.
 
-این پروژه یک چت‌روم کلاینت-سرور را با استفاده از Bash پیاده‌سازی می‌کند که از چندین کاربر با پیام‌رسانی درلحظه احراز هویت ساده و concurrency با ابزارهایی مانند `ncat` پشتیبانی می‌کند. از فایل لاگ برای پخش پیام‌ها و پایگاه داده کاربران برای احراز هویت استفاده می‌شود.
+این پروژه یک چت‌روم کلاینت-سرور را با استفاده از Bash پیاده‌سازی می‌کند که از چندین کاربر با پیام‌رسانی درلحظه، احراز هویت ساده و همزمانی با ابزارهایی مانند `ncat` پشتیبانی می‌کند. از فایل لاگ برای پخش پیام‌ها و پایگاه داده کاربران برای احراز هویت استفاده می‌شود.
 
 ## Features | ویژگی‌ها
 
