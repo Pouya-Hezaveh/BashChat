@@ -78,27 +78,29 @@ Open a terminal in the project folder and start the server:
 cd path/to/project
 ./server.sh
 ```
+
 Or with a custom port:  
-یا با پورت دلخواه:
+یا با پورت دلخواه
+
 ```bash
 ./server.sh <port-number>
 ```
 
 ### 5. Run the Client / اجرای کلاینت
-For each client, open a terminal in the project folder and start the client:
 
-برای اجرای هر کلاینت، ترمینالی را در پوشه پروژه باز نموده و اسکریپت کلاینت را اجرا کنید:
+For each client, open a terminal in the project folder and start the client:
+برای اجرای هر کلاینت، ترمینالی را در پوشه پروژه باز نموده و اسکریپت کلاینت را اجرا کنید
 
 ```bash
 cd path/to/project
-./client.sh
+./client.sh <server-IP>
 ```
 
-Or with custom server IP and port:  
-یا با آی-پی سرور و پورت دلخواه:
+Or if the server is running on another port rather than the default one:  
+یا اگر سرور روی پورت دیگری اجرا شده است:
 
 ```bash
-./client.sh <server-ip> <port>
+./client.sh <server-IP> <port-number>
 ```
 
 **Note:** Accounts are defined by username and password in the file: `/path/to/project/data/users.db`
