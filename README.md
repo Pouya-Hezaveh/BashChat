@@ -1,6 +1,6 @@
 # BashChat
 
-A simple, multi-user, real-time terminal chat system built with Bash scripts.
+A simple, multi-user, real-time terminal chat system built with Bash scripts.  
 سیستم چت ترمینالی ساده، چندکاربره و درلحظه، ساخته‌شده با اسکریپت‌های بَش
 
 **Developer:** Pouya Hezaveh  
