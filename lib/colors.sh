@@ -1,0 +1,14 @@
+# colors.sh
+
+RED='\033[0;31m'
+GREEN='\033[0;32m'
+YELLOW='\033[0;32m'
+BLUE='\033[0;34m'
+INFO='\033[0;30m'
+WARN='\033[3;33m'
+SUCCESS='\033[1;32m'
+ERROR='\033[1;31m'
+GREET='\033[1;36m'
+ASK='\033[1;35m'
+ENLIGHT='\033[1;37m'
+NC='\033[0m' # No Color
