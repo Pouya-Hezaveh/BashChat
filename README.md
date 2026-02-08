@@ -3,9 +3,6 @@
 A simple, multi-user, real-time terminal chat system built with Bash scripts.  
 سیستم چت ترمینالی ساده، چندکاربره و درلحظه، ساخته‌شده با اسکریپت‌های بَش
 
-**Developer:** Pouya Hezaveh  
-**توسعه‌دهنده:** پویا هزاوه
-
 ## Description / توضیحات
 
 This project implements a client-server chatroom using Bash, supporting multiple users with real-time messaging, simple authentication, and concurrency via tools like `ncat`. It uses a log file for message broadcasting and a users database for authentication.
